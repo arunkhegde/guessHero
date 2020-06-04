@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GuessHero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_heading">Are U Ready To guess</string>
+    <string name="get_going">GET GOING</string>
+    <string name="film_colon">Film Name Is</string>
+    <string name="your_score_is">Your Final Score:</string>
+    <string name="check">submit</string>
+    <string name="hint">Hint</string>
+    <string name="end_game">END</string>
+    <string name="quote_format">\"%s\"</string>
+    <string name="score_format">Score: %d</string>
+    <string name="nick_format">nickname: \"%s\"</string>
+    <string name="press_hint">Press Hint button to display nick name</string>
+    <string name="practice">Press Here To Pratice FIrst</string>
+</resources>
